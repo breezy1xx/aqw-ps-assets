@@ -1,0 +1,12 @@
+
+{
+  "name": "AQW PS Online Assets",
+  "version": "1",
+  "assets": [
+    {
+      "path": "client/AQWClient_UI_Online.swf",
+      "url": "https://raw.githubusercontent.com/breezy1xx/aqw-ps-assets/main/AQWClient_UI.swf",
+      "sha256": "A404BE5FF1BAFC880D6DB791C900E8D54D15D714DC8CDB05CC84DA006E657E47"
+    }
+  ]
+}
